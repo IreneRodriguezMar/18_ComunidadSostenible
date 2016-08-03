@@ -1,0 +1,63 @@
+.ecomunidad{/* Icono ecomunidad */
+	width:90%; 
+	height:90%; 
+}
+ul li{
+	list-style-type: none;
+	display: inline-block;
+	/*border-right: 1px solid;*/
+	margin: 1%;
+	margin-top: 5%;
+	margin-left: 7%;
+	
+}
+.menu{
+	color: grey;
+	text-decoration: none;
+}
+/* Inserta tu codigo aqui */
+.semilla{
+	background-image: url("../img/semilla.jpg");
+	background-size:cover;
+	background-repeat: no-repeat;
+	height: 400px;
+}
+.gris{
+	background-color: grey;
+	background-size: cover;
+	margin-top: 28.6%;
+	height: 300px;
+}
+.text{
+	padding-top: 5%;
+}
+.mision{
+font-size:20px;
+
+}
+.fondoverde{
+	background-image: url("../img/fondo.jpg");
+	background-size:cover;
+	background-repeat: no-repeat;
+	height: 455px;
+}
+.metodo{
+	width: 100%;
+	height: 250%;
+}
+.icometod{
+	margin-top: 80px;
+
+}
+.metodologia{
+	margin-top: 80px;
+}
+.servicios{
+	margin-top: 10%;
+	font-size: 50px;
+}
+.servtext{
+	font-size: 20px;
+	margin-bottom: 10%;
+}
+
